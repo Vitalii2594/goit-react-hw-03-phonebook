@@ -47,9 +47,10 @@ export const Btn = styled.button`
   font-size: 16px;
   line-height: 1.88;
   letter-spacing: 0.06em;
+  color: #fffff5;
   box-shadow: 0px 4px 4px rgb(0 0 0 / 15%);
   border-radius: 4px;
-  background-color: greenyellow;
+  background-color: #0b4012;
   display: flex;
   justify-content: center;
   align-items: center;
